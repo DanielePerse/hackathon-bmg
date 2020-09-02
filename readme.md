@@ -19,9 +19,15 @@ Com essa ampla visão, anunciamos nosso desafio no Mega Hack Women, focado nas m
 # Cronograma
 
 [x] 28/08 - 14:00 hrs - Live de Abertura
+
 [x] 30/08 - Até 23:59 hrs - Criação de times
+
 [x] 31/08 a 02/09 - Ideação e Validação do Problema
+
 [x] 03/09 - Até 23:59 hrs - Entrega do primeiro checkpoint
+
 [x] 07/09 - Até 23:59 hrs - Submissão dos projetos
+
 [x] 11/09 - Divulgação dos finalistas
+
 [x] 16/09 - Live para divulgar os campeões
