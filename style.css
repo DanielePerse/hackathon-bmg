@@ -6,6 +6,7 @@
 
 body {
   font-family: "Montserrat",Arial,Helvetica,sans-serif;
+  background-color: blue;
 }
 
 .top-bar {
@@ -47,4 +48,28 @@ body {
   background-size: cover;
   width: 100%;
   height: 350px;
+}
+
+.general-information {
+  background-color: rgb(242, 240, 245);
+  margin: 20px;
+  height: 80px;
+  margin-bottom: 3%;
+  border-radius: 10px;
+}
+
+.link {
+  background-color: rgb(242, 240, 245);
+  margin: 20px;
+  height: 20px;
+  width: 20%;
+  margin-bottom: 3%;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 130px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
 }
