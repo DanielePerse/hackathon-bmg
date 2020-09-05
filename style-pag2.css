@@ -17,7 +17,7 @@ header {
 .main-container {
   position: absolute;
   width: 80%;
-  height: 90%;
+  height: 1300px;
   left: 102px;
   top: 125px;
   background: #FFFFFF;
@@ -38,7 +38,7 @@ header {
   width: 90%;
   height: 14px;
   left: 5%;
-  top: 12%;
+  top: 10%;
   border: 1px solid #FA6300;
   box-sizing: border-box;
   border-radius: 10px;
@@ -55,7 +55,7 @@ header {
 .main-title {
   position: absolute;
   left: 5%;
-  top: 13%;
+  top: 11%;
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
   color: #000000;
@@ -66,11 +66,40 @@ header {
   width: 90%;
   height: 500px;
   left: 5%;
-  top: 25%;
+  top: 20%;
 }
 
 .vector {
   position: absolute;
   left: 45%;
-  top: 50%;
+  top: 35%;
+}
+
+.main-text {
+  position: absolute;
+  width: 90%;
+  left: 5%;
+  top: 60%;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.245455px;
+  color: #596263;
+}
+
+.check {
+  position: absolute;
+  top: 94.5%;
+  left: 70%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #424242;
+}
+
+.check-button {
+  position: absolute;
+  top: 95%;
+  left: 90%;
 }
