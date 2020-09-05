@@ -1,12 +1,27 @@
 body {
-  background-color: #F2F2F2;
+  background-color: #F2F2F2;;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  border: black solid 1px;
+  margin: 0px;
+  padding: 0px;
 }
 
-.superior-container {
-  display: flex;
-  justify-content: flex-start;
+header {
+  border: black solid 1px;
+  background-image:url(./img/barra-superior.png);
+  background-size:cover;
+  background-repeat:no-repeat;
+  height: 70px;
 }
 
-.teste {
-  font-size: 170px;
+.main-container {
+  position: absolute;
+  width: 1669px;
+  height: 646px;
+  left: 5%;
+  top: 132px;
+  background: #FFFFFF;
+  border-radius: 20px;
 }
