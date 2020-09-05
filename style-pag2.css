@@ -3,13 +3,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
-  border: black solid 1px;
   margin: 0px;
   padding: 0px;
 }
 
 header {
-  border: black solid 1px;
   background-image:url(./img/barra-superior.png);
   background-size:cover;
   background-repeat:no-repeat;
@@ -18,10 +16,58 @@ header {
 
 .main-container {
   position: absolute;
-  width: 1669px;
-  height: 646px;
-  left: 5%;
-  top: 132px;
+  width: 80%;
+  height: 100%;
+  left: 102px;
+  top: 125px;
   background: #FFFFFF;
   border-radius: 20px;
+}
+
+.percent {
+  position: absolute;
+  width: 15%;
+  height: 24px;
+  left: 3%;
+  top: 6%;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #514E4E;
+}
+
+.rectangle {
+  position: absolute;
+  width: 90%;
+  height: 14px;
+  left: 5%;
+  top: 10%;
+  border: 1px solid #FA6300;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.rectangle-2 {
+  position: absolute;
+  width: 15%;
+  height: 14px;
+  background: #FA6300;
+  border-radius: 10px;
+}
+
+.main-title {
+  position: absolute;
+  width: 538px;
+  height: 49px;
+  left: 5%;
+  top: 11%;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
 }
