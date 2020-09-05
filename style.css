@@ -1,12 +1,69 @@
+
 body {
-  background-image: url(img/background-barras.png);
+  background-color: #F2F2F2;;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
+  border: black solid 1px;
+  margin: 0px;
+  padding: 0px;
 }
 
+header {
+  border: black solid 1px;
+  background-image:url(./img/barra-superior.png);
+  background-size:cover;
+  background-repeat:no-repeat;
+  height: 70px;
+}
 
+.main-container {
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  left: 102px;
+  top: 125px;
+  border: black solid 1px;
+  background: #F2F2F2;
+}
 
+.conteiner1 {
+  position: absolute;
+width: 80%;
+height: 130px;
+left: 100px;
+top: 100px;
+border: black solid 1px;
+background: #FFFFFF;
+box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
+border-radius: 10px;
+}
+.conteiner2 {
+  position: absolute;
+  width: 80%;
+  height: 130px;
+  left: 100px;
+  top: 350px;
+  border: black solid 1px;
+  background: #FFFFFF;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
 
+.borda-orange1 {
+  position: absolute;
+  width: 15px;
+  height: 130px;
+  background: #FA6300;
+  border-radius: 30px;
+}
+
+.borda-orange2 {
+  position: absolute;
+  width: 15px;
+  height: 130px;
+  background: #FA6300;
+  border-radius: 30px;
+}
 
 
