@@ -1,0 +1,155 @@
+
+body {
+  background-color: #F2F2F2;;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-image:url(./img/barra-superior.png);
+  background-size:cover;
+  background-repeat:no-repeat;
+  height: 70px;
+}
+
+.main-container {
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  left: 102px;
+  top: 125px;
+  background: #F2F2F2;
+}
+.conteiner {
+  width: 1000px;
+  height: 200px;
+  margin: auto;
+}
+
+.img-mulher {
+  width: 250px;
+  height: 250px;
+  background: url(./img/image\ 3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 400px;
+  bottom: 50px;
+}
+
+.messagem {
+  background: url(./img/image\ 1.png);
+  width: 350px;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  left: 700px;
+  bottom: 300px;
+}
+
+.text {
+  background: url(./img/Aprenda\ com\ Duda.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 100px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.conteiner2 {
+  position: absolute;
+  width: 1000px;
+  height: 130px;
+  left: 100px;
+  top: 250px;
+  background: #FFFFFF;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.conteudo-container2 {
+  background: url(./img/conetudo-conteiner2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 130px;
+  position: absolute;
+}
+
+.conteudo-container3 {
+  background: url(./img/conetudo-conteiner3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 130px;
+  position: absolute;
+}
+
+
+.conteiner3 {
+  position: absolute;
+  width: 1000px;
+  height: 130px;
+  left: 100px;
+  top: 450px;
+  background: #FFFFFF;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.borda-orange2 {
+  position: absolute;
+  width: 15px;
+  height: 130px;
+  background: #FA6300;
+  border-radius: 30px;
+}
+
+.borda-orange3 {
+  position: absolute;
+  width: 15px;
+  height: 130px;
+  background: #FA6300;
+  border-radius: 30px;
+}
+
+.button2 {
+  background: url(./img/button.png);
+  width: 150px;
+  height: 150px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 800px;
+  top: 50px;
+}
+
+.button3 {
+  background: url(./img/button.png);
+  width: 150px;
+  height: 150px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 800px;
+  top: 50px;
+}
+
+a {
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  color: #FFFFFF;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+}
+
