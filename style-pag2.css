@@ -74,18 +74,3 @@ header {
   left: 45%;
   top: 50%;
 }
-
-.first-parafraph {
-  position: absolute;
-  width: 90%;
-  height: 80%;
-  left: 15%;
-  top: 90%;
-  font-family: Montserrat;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: 27px;
-  letter-spacing: 0.245455px;
-  color: #596263;
-}
