@@ -26,16 +26,10 @@ header {
 
 .percent {
   position: absolute;
-  width: 15%;
-  height: 24px;
-  left: 3%;
+  left: 5%;
   top: 6%;
   font-family: 'Montserrat', sans-serif;
-  font-style: normal;
-  font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
-  text-align: center;
   color: #514E4E;
 }
 
@@ -44,7 +38,7 @@ header {
   width: 90%;
   height: 14px;
   left: 5%;
-  top: 10%;
+  top: 12%;
   border: 1px solid #FA6300;
   box-sizing: border-box;
   border-radius: 10px;
@@ -60,14 +54,23 @@ header {
 
 .main-title {
   position: absolute;
-  width: 538px;
-  height: 49px;
   left: 5%;
-  top: 11%;
+  top: 13%;
   font-family: 'Montserrat', sans-serif;
-  font-style: normal;
-  font-weight: 600;
   font-size: 40px;
-  line-height: 49px;
   color: #000000;
+}
+
+.photo {
+  position: absolute;
+  width: 90%;
+  height: 500px;
+  left: 5%;
+  top: 25%;
+}
+
+.vector {
+  position: absolute;
+  left: 45%;
+  top: 50%;
 }
