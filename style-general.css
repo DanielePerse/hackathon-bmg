@@ -1,0 +1,15 @@
+body {
+  background-color: #F2F2F2;
+}
+
+.superior-container {
+  display: flex;
+}
+
+.lateral-container {
+  display: flex;
+}
+
+.inferior-container {
+  display: flex;
+}
