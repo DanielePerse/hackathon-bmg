@@ -2,4 +2,15 @@ body {
   background-image: url(img/background-barras.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: scroll;
+}
+
+.main-container {
+  position: absolute;
+  width: 1320px;
+  height: 520px;
+  left: 110px;
+  top: 110px;
+  background: #FFFFFF;
+  border-radius: 20px;
 }
