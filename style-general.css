@@ -4,12 +4,15 @@ body {
 
 .superior-container {
   display: flex;
+  justify-content: flex-start;
 }
 
 .lateral-container {
   display: flex;
+  align-items: flex-start;
 }
 
 .inferior-container {
   display: flex;
+  justify-content: flex-end;
 }
