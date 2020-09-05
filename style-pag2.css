@@ -1,3 +1,5 @@
 body {
-  background-image: url(imagens/background-barras.png);
+  background-image: url(img/background-barras.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
