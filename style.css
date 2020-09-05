@@ -1,17 +1,8 @@
 body {
-  background-image: url(img/img1.png);
+  background-image: url(img/background-barras.png);
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.grey-container {
-  position: absolute;
-  width: 1802px;
-  height: 653px;
-  left: 102px;
-  top: 125px;
-  
-  background: #F2F2F2;
+  background-attachment: scroll;
 }
 
 
