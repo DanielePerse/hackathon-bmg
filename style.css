@@ -34,9 +34,10 @@ header {
   background-repeat: no-repeat;
   bottom: 50px;
   height: 250px;
-  left: 400px;
+  left: 50%;
   position: relative;
   width: 250px;
+  top: 33%
 }
 
 .messagem {
@@ -50,15 +51,25 @@ header {
   width: 350px;
 }
 
-.text {
-  background: url(./img/Aprenda\ com\ Duda.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  height: 100px;
-  left: 50px;
-  position: relative;
-  top: 50px;
-  width: 350px;
+.title-1 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  height: 59px;
+  left: 8%;
+  line-height: 59px;
+  position: absolute;
+}
+
+.title-2 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  height: 59px;
+  left: 8%;
+  line-height: 59px;
+  position: absolute;
+  top: 8%;
 }
 
 .conteiner2 {
@@ -151,4 +162,3 @@ a {
   text-decoration: none;
   top: 10px;
 }
-
