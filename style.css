@@ -1,9 +1,8 @@
-
 body {
+  background-attachment: scroll;
   background-color: #F2F2F2;;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: scroll;
   margin: 0px;
   padding: 0px;
 }
@@ -16,140 +15,150 @@ header {
 }
 
 .main-container {
-  position: absolute;
-  width: 80%;
-  height: 100%;
-  left: 102px;
-  top: 125px;
   background: #F2F2F2;
+  left: 102px;
+  height: 100%;
+  position: absolute;
+  top: 125px;
+  width: 80%;
 }
 .conteiner {
-  width: 1000px;
   height: 200px;
   margin: auto;
+  width: 1000px;
 }
 
 .img-mulher {
-  width: 250px;
-  height: 250px;
   background: url(./img/image\ 3.png);
   background-size: contain;
   background-repeat: no-repeat;
-  position: relative;
-  left: 400px;
   bottom: 50px;
+  height: 250px;
+  left: 50%;
+  position: relative;
+  width: 250px;
+  top: 33%
 }
 
 .messagem {
   background: url(./img/image\ 1.png);
-  width: 350px;
-  height: 350px;
   background-repeat: no-repeat;
   background-size: contain;
-  position: relative;
-  left: 700px;
   bottom: 300px;
+  height: 350px;
+  left: 700px;
+  position: relative;
+  width: 350px;
 }
 
-.text {
-  background: url(./img/Aprenda\ com\ Duda.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 350px;
-  height: 100px;
-  position: relative;
-  left: 50px;
-  top: 50px;
+.title-1 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  height: 59px;
+  left: 8%;
+  line-height: 59px;
+  position: absolute;
+}
+
+.title-2 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  height: 59px;
+  left: 8%;
+  line-height: 59px;
+  position: absolute;
+  top: 8%;
 }
 
 .conteiner2 {
-  position: absolute;
-  width: 1000px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
   height: 130px;
   left: 100px;
+  position: absolute;
   top: 250px;
-  background: #FFFFFF;
-  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
-  border-radius: 10px;
+  width: 1000px;
 }
 
 .conteudo-container2 {
   background: url(./img/conetudo-conteiner2.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 80%;
   height: 130px;
   position: absolute;
+  width: 80%;
 }
 
 .conteudo-container3 {
   background: url(./img/conetudo-conteiner3.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 80%;
   height: 130px;
   position: absolute;
+  width: 80%;
 }
 
 
 .conteiner3 {
-  position: absolute;
-  width: 1000px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
   height: 130px;
   left: 100px;
+  position: absolute;
   top: 450px;
-  background: #FFFFFF;
-  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.15);
-  border-radius: 10px;
+  width: 1000px;
 }
 
 .borda-orange2 {
-  position: absolute;
-  width: 15px;
-  height: 130px;
   background: #FA6300;
   border-radius: 30px;
+  height: 130px;
+  position: absolute;
+  width: 15px;
 }
 
 .borda-orange3 {
-  position: absolute;
-  width: 15px;
-  height: 130px;
   background: #FA6300;
   border-radius: 30px;
+  height: 130px;
+  position: absolute;
+  width: 15px;
 }
 
 .button2 {
   background: url(./img/button.png);
-  width: 150px;
-  height: 150px;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute;
+  height: 150px;
   left: 800px;
+  position: absolute;
   top: 50px;
+  width: 150px;
 }
 
 .button3 {
   background: url(./img/button.png);
-  width: 150px;
-  height: 150px;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute;
+  height: 150px;
   left: 800px;
+  position: absolute;
   top: 50px;
+  width: 150px;
 }
 
 a {
-  position: absolute;
-  left: 40px;
-  top: 10px;
   color: #FFFFFF;
   font-family: 'Montserrat';
-  text-decoration: none;
-  font-weight: 600;
   font-size: 15px;
+  font-weight: 600;
+  left: 40px;
   letter-spacing: 0.04em;
+  position: absolute;
+  text-decoration: none;
+  top: 10px;
 }
-
