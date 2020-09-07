@@ -6,9 +6,9 @@
 
 *Fizemos 2 páginas de site, através dos arquivos index.html e index-pag2.html, para dar uma ideia de como ficaria a solução do problema na web. O estilo do site (css), foi feito com base em um protótipo disponibilizado pela UX do grupo, onde aproveitamos boa parte do CSS. Também utilizamos um pouco de Javascript em eventos da segunda página do site.*
 
-1. [x] <a href="https://www.figma.com/file/jdFUsj0gP1hWT4uaB5aFx6/Banco-BMG---Mega-Hack?node-id=17%3A2" target="_blank">Link do protótipo no Figma</a> 
+<a href="https://www.figma.com/file/jdFUsj0gP1hWT4uaB5aFx6/Banco-BMG---Mega-Hack?node-id=17%3A2" target="_blank">Link do protótipo no Figma</a> 
 
-2. [x] <a href="https://danieleperse.github.io/hackathon-bmg/" target="_blank">Link do site postado no GitHub.io</a>
+<a href="https://danieleperse.github.io/hackathon-bmg/" target="_blank">Link do site postado no GitHub.io</a>
 
 
 ## Problema
