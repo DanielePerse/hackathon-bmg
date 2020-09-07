@@ -1,4 +1,28 @@
-## Sobre: Projeto MegaHack Womem - Desafio BMG
+# Projeto Mega Hack Women - Desafio BMG
+
+## Problema
+
+1. [x] *Falta de assistência bancária de qualidade;*
+
+2. [x] *Baixo índice de empréstimo nos bancos para mulheres;*
+
+3. [x] *Grande índice de mulheres sem conta em banco;*
+
+4. [x] *Baixa conversão de leads em clientes;* 
+
+5. [x] *Baixa solicitação de microcrédito por mulheres;*
+
+
+## Solução
+
+1. [x] Facilitação de coteúdo focado em mulheres empreendedoras com assuntos que possam evoluir seu conhecimento e negócio;
+
+2. [x] Esse conteúdo em formato de trilhas de conhecimento com linguagem simples e direta, aproximando essas empreendedoras;
+
+3. [x] Ao finalizar esses conteúdos, ganha-se pontos que podem ser utilizados dentro do banco BMG em compras, serviços e cursos.
+
+
+## Sobre o repositório
 
 *Este repositório possui arquivos desenvolvidos para mostrar a solução do problema em formato de site.*
 
@@ -8,7 +32,9 @@
 
 2. [x] <a href="https://danieleperse.github.io/hackathon-bmg/" target="_blank">Link do site postado no GitHub.io</a>
 
-### Componentes do grupo 13:
+<hr />
+
+## Componentes do grupo "Evolução 13":
 - :woman_technologist: Daniele - Desenvolvedora
 - :information_desk_person: Laura - Business
 - :woman_technologist: Macarena - Desenvolvedora
