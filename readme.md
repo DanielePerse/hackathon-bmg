@@ -26,16 +26,18 @@
 
 ## Solução
 
-1. [x] *Facilitação de conteúdo focado em mulheres empreendedoras com assuntos que possam evoluir seu conhecimento e negócio;*
+1. [x] *Conteúdo dinâmico focado em mulheres empreendedoras com assuntos que possam evoluir seu conhecimento e negócio, como os benefícios de ser MEI e a existência do microcrédito;*
 
 2. [x] *Esse conteúdo em formato de trilhas de conhecimento com linguagem simples e direta, aproximando essas empreendedoras;*
 
 3. [x] *Ao finalizar esses conteúdos, ganha-se pontos que podem ser utilizados dentro do banco BMG em compras, serviços e cursos.*
 
+4. [x] *A trilha também atua com mais um canal para atrair mulheres para o programa de afiliação da BMG, que além de dar uma comissão para a mulher que indicou uma amiga, possibilita o BMG alcançar a bancarizar mais mulheres e ainda diminuir o CAC.*
+
 <hr />
 
 ## Componentes do grupo "Evolução 13":
-- :woman_technologist: Daniele - Desenvolvedora
+- :woman_technologist: Daniele - Developer
 - :information_desk_person: Laura - Business
-- :woman_technologist: Macarena - Desenvolvedora
-- :raising_hand: Patricia - UX
+- :woman_technologist: Macarena - Developer
+- :raising_hand: Patricia - UX/UI Designer
